@@ -1,5 +1,5 @@
 # C extensions
-*.so
+*.s
 
 # Distribution / packaging
 
